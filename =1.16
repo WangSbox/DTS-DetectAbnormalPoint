@@ -1,0 +1,13 @@
+Looking in indexes: http://repo.myhuaweicloud.com/repository/pypi/simple
+Requirement already satisfied: tensorboard in /home/ma-user/anaconda3/lib/python3.6/site-packages (1.13.1)
+Requirement already satisfied: absl-py>=0.4 in /home/ma-user/anaconda3/lib/python3.6/site-packages (from tensorboard) (0.11.0)
+Requirement already satisfied: six>=1.10.0 in /home/ma-user/anaconda3/lib/python3.6/site-packages (from tensorboard) (1.15.0)
+Requirement already satisfied: grpcio>=1.6.3 in /home/ma-user/anaconda3/lib/python3.6/site-packages (from tensorboard) (1.34.1)
+Requirement already satisfied: markdown>=2.6.8 in /home/ma-user/anaconda3/lib/python3.6/site-packages (from tensorboard) (3.3.3)
+Requirement already satisfied: werkzeug>=0.11.15 in /home/ma-user/anaconda3/lib/python3.6/site-packages (from tensorboard) (1.0.1)
+Requirement already satisfied: numpy>=1.12.0 in /home/ma-user/anaconda3/lib/python3.6/site-packages (from tensorboard) (1.19.5)
+Requirement already satisfied: wheel>=0.26 in /home/ma-user/anaconda3/lib/python3.6/site-packages (from tensorboard) (0.36.2)
+Requirement already satisfied: protobuf>=3.6.0 in /home/ma-user/anaconda3/lib/python3.6/site-packages (from tensorboard) (3.14.0)
+Requirement already satisfied: importlib-metadata in /home/ma-user/anaconda3/lib/python3.6/site-packages (from markdown>=2.6.8->tensorboard) (3.4.0)
+Requirement already satisfied: zipp>=0.5 in /home/ma-user/anaconda3/lib/python3.6/site-packages (from importlib-metadata->markdown>=2.6.8->tensorboard) (3.4.0)
+Requirement already satisfied: typing-extensions>=3.6.4 in /home/ma-user/anaconda3/lib/python3.6/site-packages (from importlib-metadata->markdown>=2.6.8->tensorboard) (3.7.4.3)

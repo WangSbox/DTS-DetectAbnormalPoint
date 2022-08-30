@@ -1,0 +1,10 @@
+naie
+torch==1.6.0
+tqdm
+numpy==1.19.5
+torchvision==0.7.0
+pandas==1.1.5
+h5py
+#tensorflow
+#tensorboard==1.15.0
+#pip install -U -r /home/ma-user/work/Algorithm/algo-temp1/requirement.txt  pip install --upgrade --ignore-installed tensorflow
